@@ -1,0 +1,28 @@
+*{margin: 0;
+    padding: 0;}
+    
+    
+    .bg-NAV {
+        background-color: #ecb5de;
+    }
+    
+    
+    
+    .bg-footer {
+        background-color: #ecb5de;
+    }
+    
+    .btn-eliminar:hover{
+        background-color: rgb(255, 38, 0);
+        color: white;
+    }
+
+    .btn-success:hover{
+background-color: green;
+
+    }
+
+    .btn-volver:hover{
+        background-color: darkred;
+       
+    }
